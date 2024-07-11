@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashchimade
 - 🌱 I’m currently pursing Post Graduation Diploma in Advance computing from CDAC Mumbai
-- 💞️ I’m looking to collaborate on anything Web development
+- 💞️ I’m looking to collaborate on anything about Web development (MERN, Spring Boot, ASP .NET)
 - 📫 How to reach me .. just drop an email - yashchimade02@gmail.com
 
 <!---
